@@ -81,7 +81,6 @@ Business Insight Generation
 
 
 📷 Dashboard Preview
-
-(Add dashboard screenshot here)
+![Stock Market Dashboard](stockmarket.png)
 
 ⭐ This project demonstrates my ability to analyze financial datasets and convert them into actionable business insights through interactive dashboards.
